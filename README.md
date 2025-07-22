@@ -4,12 +4,6 @@ This is a beginner-friendly Python project that acts like a small mental health 
 
 ---
 
-## Summary
-
-The AI Mental Health Companion uses **sentiment analysis** to understand a user's emotional state (happy, sad, neutral). Based on the mood, it provides encouraging words and simple mental wellness suggestions like breathing exercises or writing gratitude.
-
----
-
 ## Features
 
 - Detects your mood based on your message
@@ -29,3 +23,8 @@ The AI Mental Health Companion uses **sentiment analysis** to understand a user'
 ```bash
 pip install textblob
 python -m textblob.download_corpora
+
+
+## Summary
+
+The AI Mental Health Companion uses **sentiment analysis** to understand a user's emotional state (happy, sad, neutral). Based on the mood, it provides encouraging words and simple mental wellness suggestions like breathing exercises or writing gratitude.
